@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    text-align: center;
+    margin:20px;
+}
+div.child{
+
+    display: inline-block;
+}
+
+section.parent{
+
+text-align: center;
+}
+
+footer {
+
+text-align: center;
+}
